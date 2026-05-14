@@ -72,3 +72,6 @@ Voice-to-Task: Direct voice command integration and transcription features.
 Calendar Sync: Integration with Google Workspace and Microsoft Outlook.
 
 Collaborative Workspaces: Shared AI contexts for departmental projects and team alignment.
+
+8. Live Demo
+https://workday-automator.lovable.app
